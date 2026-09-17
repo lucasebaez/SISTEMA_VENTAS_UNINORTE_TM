@@ -710,13 +710,13 @@
             </thead>
 
             <tbody>
-              <tr>
+              <!-- <tr>
                 <td>Gaseosa Coca Cola 2L</td>
                 <td><button class="btn btn-primary">Editar</button></td>
                 <td><button class="btn btn-danger">Eliminar</button></td>
               </tr>
 
-            <tbody>
+
               <tr>
                 <td>Agua Mineral 1L</td>
                 <td><button type="button" class="btn btn-outline-primary btn-icon">
@@ -727,7 +727,7 @@
                     <div class="fa fa-trash"></div>
                   </button>
                 </td>
-              </tr>
+              </tr> -->
             </tbody>
           </table>
         </div><!-- table-wrapper -->
